@@ -1,0 +1,16 @@
+.counter{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #bbbbbb;
+    margin: 0 auto;
+
+}
+
+.counterb{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #bbbbbb;
+    margin: 0 auto;
+    background-color: #cccccc;
+
+}
